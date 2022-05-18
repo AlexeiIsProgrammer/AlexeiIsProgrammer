@@ -2,12 +2,10 @@
 # A boy, who wants to get better
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
+   <a href="https://vk.com/nobrsm">
        <img src="https://img.shields.io/badge/VK-profile-blue"/>
    </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
+</p>
 <p align='center'>
    My Email: <a href='mailto:leshakartoshka@list.ru'>leshakartoshka@list.ru</a>
 </p>
