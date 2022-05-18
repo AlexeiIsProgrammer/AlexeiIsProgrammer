@@ -18,6 +18,9 @@
    </a>
 <p align='center'>
    My Email: <a href='mailto:leshakartoshka@list.ru'>leshakartoshka@list.ru</a>
+</p>
+
+<p align = 'center'>
    For Business: <a href='mailto:avenge.now.r@mail.ru'>avenge.now.r@mail.ru</a>
 </p>
 
