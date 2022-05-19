@@ -22,6 +22,6 @@
 
 ### My personal projects
 
-* C++ Builder Snake
-* Unity Tanks3D
-* Student database
+* [C++ Builder Snake](https://github.com/AlexeiIsProgrammer/Snake-2.0)
+* [Unity Tanks3D](https://github.com/AlexeiIsProgrammer/Tanks3DUnity)
+* [Student database](https://github.com/AlexeiIsProgrammer/Bakery)
