@@ -24,5 +24,4 @@
 
 * C++ Builder Snake
 * Unity Tanks3D
-* Aboba
-* Finance Database
+* Student database
