@@ -18,7 +18,7 @@
 ## 🛠 Technical Stack
 *   C++, C#, Python, Assembler (a little), JavaScript (learning now) 
 *   MySQL
-*   GitHub so-so
+*   Git
 
 ### My personal projects
 
