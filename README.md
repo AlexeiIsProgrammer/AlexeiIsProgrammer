@@ -16,7 +16,7 @@
 </p>
 
 ## 🛠 Technical Stack
-*   C++, C#, Python, Assembler (a little), JavaScript (learning now) 
+*   JavaScript, React 
 *   MySQL
 *   Git
 
