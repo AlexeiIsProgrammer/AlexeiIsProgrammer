@@ -16,9 +16,7 @@
 </p>
 
 ## 🛠 Technical Stack
-*   JavaScript, React 
-*   MySQL
-*   Git
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
 
 ### My personal projects
 
