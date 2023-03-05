@@ -32,4 +32,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlexeiIsProgrammer&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexeiIsProgrammer&theme=dark" width="48%" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AlexeiIsProgrammer&layout=compact)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,json,mysql,sass,markdown)](https://github.com/Jurredr/github-widgetbox)
