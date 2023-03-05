@@ -26,3 +26,8 @@
 * [Unity Tanks3D](https://github.com/AlexeiIsProgrammer/Tanks3DUnity)
 * [Student database](https://github.com/AlexeiIsProgrammer/Bakery)
 * [Finance DB](https://github.com/AlexeiIsProgrammer/Finance-DB)
+
+
+###Some stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
