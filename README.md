@@ -32,4 +32,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlexeiIsProgrammer&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexeiIsProgrammer&theme=dark" width="48%" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeiIsProgrammer&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AlexeiIsProgrammer&layout=compact)
