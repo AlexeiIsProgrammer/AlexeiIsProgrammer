@@ -30,6 +30,4 @@
 
 ### Some stats
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,json,mysql,sass,markdown&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-<img src="https://github-readme-stats.vercel.app/api?username=AlexeiIsProgrammer&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexeiIsProgrammer&theme=dark" width="48%" />
 
