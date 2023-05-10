@@ -28,8 +28,5 @@
 
 
 ### Some stats
-![](https://raw.githubusercontent.com/AlexeiIsProgrammer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AlexeiIsProgrammer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-<img src="https://github-readme-stats.vercel.app/api?username=AlexeiIsProgrammer&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexeiIsProgrammer&theme=dark" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AlexeiIsProgrammer&show_icons=true&theme=gotham" alt="github stats" width="100%" align="right"/>
 
