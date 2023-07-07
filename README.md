@@ -21,10 +21,10 @@
 
 ### My personal projects
 
-* [C++ Builder Snake](https://github.com/AlexeiIsProgrammer/Snake-2.0)
-* [Unity Tanks3D](https://github.com/AlexeiIsProgrammer/Tanks3DUnity)
-* [Student database](https://github.com/AlexeiIsProgrammer/Bakery)
-* [Finance DB](https://github.com/AlexeiIsProgrammer/Finance-DB)
+* [Momentum](https://github.com/AlexeiIsProgrammer/momentum)
+* [Virtual Keyboard](https://alexeiisprogrammer.github.io/virtual-keyboard/dist/)
+* [Online Shop (React, SASS, JS)](https://github.com/AlexeiIsProgrammer/online-shop)
+* [Spots (Pyatnashki)](https://rolling-scopes-school.github.io/alexeiisprogrammer-JSFE2022Q3/codejam/)
 
 
 ### Some stats
