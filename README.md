@@ -23,9 +23,8 @@
 
 * [Momentum](https://github.com/AlexeiIsProgrammer/momentum)
 * [Virtual Keyboard](https://alexeiisprogrammer.github.io/virtual-keyboard/dist/)
-* [Online Shop (React, SASS, JS)](https://github.com/AlexeiIsProgrammer/online-shop)
 * [Spots (Pyatnashki)](https://rolling-scopes-school.github.io/alexeiisprogrammer-JSFE2022Q3/codejam/)
-
+* [Online Shop (React, SASS, JS)](https://github.com/AlexeiIsProgrammer/online-shop)
 
 ### Some stats
 <img src="https://github-readme-stats.vercel.app/api?username=AlexeiIsProgrammer&show_icons=true&theme=gotham" alt="github stats" width="100%" align="right"/>
