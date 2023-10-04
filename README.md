@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="60" src="https://media.tenor.com/PruazNUhkFgAAAAC/love-cucumber-dance.gif"  />
+<img align="right" width="60" height="60" src="https://media.tenor.com/PruazNUhkFgAAAAC/love-cucumber-dance.gif"  />
 
 ###
 
