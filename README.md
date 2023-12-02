@@ -21,13 +21,7 @@
   </a>
 </div>
 
-###
-
-<img align="right" width="60" height="60" src="https://media.tenor.com/PruazNUhkFgAAAAC/love-cucumber-dance.gif"  />
-
-###
-
-<div align="left">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
